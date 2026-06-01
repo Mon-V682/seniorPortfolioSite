@@ -84,7 +84,7 @@ main{
     border: solid 1.8px rgb(228, 127, 127);
     text-align: left;
     background-color: rgb(55, 55, 55);
-    background-image: url("/images/STRIPE.png");
+    background-image: url("/images/Stripe.png");
 
 }
 
@@ -97,7 +97,7 @@ nav{
     margin-bottom: 20px;
     background-color: rgb(55, 55, 55);
     border:double 5px rgb(228, 127, 127);
-    background-image: url("/images/STRIPE.png") ;
+    background-image: url("/images/Stripe.png") ;
     font-family: "Geo", sans-serif;
     font-size: 1.45em;
     
